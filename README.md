@@ -41,7 +41,7 @@ Everything is for Free!
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-- **[Notion Project Steps](https://notion.so/your-project-link):** Access to All Project Phases and Tasks.
+- **[Notion Project Steps](https://crocus-asiago-423.notion.site/Data-Warehouse-Project-2e3a56085ea4802598b5c0cb4e48fb85):** Access to All Project Phases and Tasks.
 
 ---
 
